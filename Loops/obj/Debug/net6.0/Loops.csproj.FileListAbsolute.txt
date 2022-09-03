@@ -1,0 +1,15 @@
+C:\Users\ruanv\OneDrive\MY MY MY!\PROFISSIONAL\CURSOS\C#\Loops\Loops\bin\Debug\net6.0\Loops.exe
+C:\Users\ruanv\OneDrive\MY MY MY!\PROFISSIONAL\CURSOS\C#\Loops\Loops\bin\Debug\net6.0\Loops.deps.json
+C:\Users\ruanv\OneDrive\MY MY MY!\PROFISSIONAL\CURSOS\C#\Loops\Loops\bin\Debug\net6.0\Loops.runtimeconfig.json
+C:\Users\ruanv\OneDrive\MY MY MY!\PROFISSIONAL\CURSOS\C#\Loops\Loops\bin\Debug\net6.0\Loops.dll
+C:\Users\ruanv\OneDrive\MY MY MY!\PROFISSIONAL\CURSOS\C#\Loops\Loops\bin\Debug\net6.0\Loops.pdb
+C:\Users\ruanv\OneDrive\MY MY MY!\PROFISSIONAL\CURSOS\C#\Loops\Loops\obj\Debug\net6.0\Loops.csproj.AssemblyReference.cache
+C:\Users\ruanv\OneDrive\MY MY MY!\PROFISSIONAL\CURSOS\C#\Loops\Loops\obj\Debug\net6.0\Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruanv\OneDrive\MY MY MY!\PROFISSIONAL\CURSOS\C#\Loops\Loops\obj\Debug\net6.0\Loops.AssemblyInfoInputs.cache
+C:\Users\ruanv\OneDrive\MY MY MY!\PROFISSIONAL\CURSOS\C#\Loops\Loops\obj\Debug\net6.0\Loops.AssemblyInfo.cs
+C:\Users\ruanv\OneDrive\MY MY MY!\PROFISSIONAL\CURSOS\C#\Loops\Loops\obj\Debug\net6.0\Loops.csproj.CoreCompileInputs.cache
+C:\Users\ruanv\OneDrive\MY MY MY!\PROFISSIONAL\CURSOS\C#\Loops\Loops\obj\Debug\net6.0\Loops.dll
+C:\Users\ruanv\OneDrive\MY MY MY!\PROFISSIONAL\CURSOS\C#\Loops\Loops\obj\Debug\net6.0\refint\Loops.dll
+C:\Users\ruanv\OneDrive\MY MY MY!\PROFISSIONAL\CURSOS\C#\Loops\Loops\obj\Debug\net6.0\Loops.pdb
+C:\Users\ruanv\OneDrive\MY MY MY!\PROFISSIONAL\CURSOS\C#\Loops\Loops\obj\Debug\net6.0\Loops.genruntimeconfig.cache
+C:\Users\ruanv\OneDrive\MY MY MY!\PROFISSIONAL\CURSOS\C#\Loops\Loops\obj\Debug\net6.0\ref\Loops.dll
